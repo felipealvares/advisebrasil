@@ -1,38 +1,38 @@
 {
     "1": {
-	    "text": "Lorem Ipsum",
+	    "texto": "Lorem Ipsum 1",
 	    "dataInicio": "9/10/2015",
 	    "dataFim": "10/10/2015",
-	    "cor": "#ccc"
+	    "cor": "red"
     },
     "2": {
-	    "text": "Lorem Ipsum",
+	    "texto": "Lorem Ipsum 2",
 	    "dataInicio": "11/10/2015",
 	    "dataFim": "12/10/2015",
-	    "cor": "#ccc"
+	    "cor": "blue"
     },
     "3": {
-	    "text": "Lorem Ipsum",
+	    "texto": "Lorem Ipsum 3",
 	    "dataInicio": "13/10/2015",
 	    "dataFim": "14/10/2015",
-	    "cor": "#ccc"
+	    "cor": "green"
     },
     "4": {
-	    "text": "Lorem Ipsum",
+	    "texto": "Lorem Ipsum 4",
 	    "dataInicio": "15/10/2015",
 	    "dataFim": "16/10/2015",
-	    "cor": "#ccc"
+	    "cor": "yellow"
     },
     "5": {
-	    "text": "Lorem Ipsum",
+	    "texto": "Lorem Ipsum 5",
 	    "dataInicio": "17/10/2015",
 	    "dataFim": "18/10/2015",
-	    "cor": "#ccc"
+	    "cor": "pink"
     },
     "6": {
-	    "text": "Lorem Ipsum",
+	    "texto": "Lorem Ipsum 6",
 	    "dataInicio": "19/10/2015",
 	    "dataFim": "20/10/2015",
-	    "cor": "#ccc"
+	    "cor": "orange"
     }
 }
