@@ -1,12 +1,12 @@
 {
     "1": {
-	    "texto": "O sistema de intimações  da OAB SP permite que cada advogado escolha com quais variações de seu nome deseja que suas publicações sejam rastreadas. Para incluir variações do seu nome, clique aqui.",
+	    "texto": "O sistema de intimações da OAB SP permite que cada advogado escolha com quais variações de seu nome deseja que suas publicações sejam rastreadas. Para incluir variações do seu nome, <a href="/PalavrasChave">clique aqui</a>.",
 	    "dataInicio": "22/07/2015",
 	    "dataFim": "28/07/2015",
 	    "cor": "#7cb3fa"
     },
     "2": {
-	    "texto": "Se o nome constante no cadastro da OAB SP sofreu qualquer alteração, recomendamos que seja imediatamente atualizado e que o novo nome seja incluído no sistema de intimações . Clique aqui e inclua termos de pesquisa.",
+	    "texto": "Se o nome constante no cadastro da OAB SP sofreu qualquer alteração, recomendamos que seja imediatamente atualizado e que o novo nome seja incluído no sistema de intimações . <a href="/PalavrasChave">Clique aqui</a> e inclua termos de pesquisa.",
 	    "dataInicio": "29/07/2015",
 	    "dataFim": "04/08/2015",
 	    "cor": "#4177ba"
@@ -24,25 +24,25 @@
 	    "cor": "#b6b4b5"
     },
     "5": {
-	    "texto": "Cadastrar abreviações e outras formas como seu nome costuma aparecer nos diários oficiais, garantem o recebimento de todas as suas publicações. Acesse aqui e inclua variações do seu nome.",
+	    "texto": "Cadastrar abreviações e outras formas como seu nome costuma aparecer nos diários oficiais, garantem o recebimento de todas as suas publicações. <a href="/PalavrasChave">Acesse aqui</a> e inclua variações do seu nome.",
 	    "dataInicio": "19/08/2015",
 	    "dataFim": "25/08/2015",
 	    "cor": "#7cb3fa"
     },
     "6": {
-	    "texto": "O cadastro de um segundo e-mail em nosso sistema pode lhe ser útil. Ele garante o duplo recebimento dos seus alertas de publicação. Cadastre um e-mail secundário aqui.",
+	    "texto": "O cadastro de um segundo e-mail em nosso sistema pode lhe ser útil. Ele garante o duplo recebimento dos seus alertas de publicação. Cadastre um e-mail secundário <a href="/PalavrasChave">aqui</a>.",
 	    "dataInicio": "26/08/2015",
 	    "dataFim": "01/09/2015",
 	    "cor": "#4177ba"
     },
     "7": {
-	    "texto": "É possível optar por receber e-mails com: 1) o aviso de que há publicações; 2) cada publicação já aberta; 3) todas as publicações já abertas. Acesse aqui para configurar.",
+	    "texto": "É possível optar por receber e-mails com: 1) o aviso de que há publicações; 2) cada publicação já aberta; 3) todas as publicações já abertas. Acesse <a href="/PalavrasChave">aqui</a> para configurar.",
 	    "dataInicio": "02/09/2015",
 	    "dataFim": "01/09/2015",
 	    "cor": "#818181"
     },
     "8": {
-	    "texto": "É possível configurar novos e-mails conforme a sua necessidade. Acesse aqui e personalize o conteúdo e a periodicidade com que deseja receber seus alertas de publicação.",
+	    "texto": "É possível configurar novos e-mails conforme a sua necessidade. Acesse <a href="/PalavrasChave">aqui</a> e personalize o conteúdo e a periodicidade com que deseja receber seus alertas de publicação.",
 	    "dataInicio": "02/09/2015",
 	    "dataFim": "08/09/2015",
 	    "cor": "#b6b4b5"
