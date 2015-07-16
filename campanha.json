@@ -1,38 +1,56 @@
 {
     "1": {
-	    "texto": "Lorem Ipsum 1",
-	    "dataInicio": "9/10/2015",
-	    "dataFim": "10/10/2015",
-	    "cor": "red"
+	    "texto": "O sistema de intimações  da OAB SP permite que cada advogado escolha com quais variações de seu nome deseja que suas publicações sejam rastreadas. Para incluir variações do seu nome, clique aqui.",
+	    "dataInicio": "22/07/2015",
+	    "dataFim": "28/07/2015",
+	    "cor": "#7cb3fa"
     },
     "2": {
-	    "texto": "Lorem Ipsum 2",
-	    "dataInicio": "11/10/2015",
-	    "dataFim": "12/10/2015",
-	    "cor": "blue"
+	    "texto": "Se o nome constante no cadastro da OAB SP sofreu qualquer alteração, recomendamos que seja imediatamente atualizado e que o novo nome seja incluído no sistema de intimações . Clique aqui e inclua termos de pesquisa.",
+	    "dataInicio": "29/07/2015",
+	    "dataFim": "04/08/2015",
+	    "cor": "#4177ba"
     },
     "3": {
-	    "texto": "Lorem Ipsum 3",
-	    "dataInicio": "13/10/2015",
-	    "dataFim": "14/10/2015",
-	    "cor": "green"
+	    "texto": "Algumas intimações podem continuar sendo publicadas com seu nome pré-nupcial. Para garantir o recebimento delas, inclua este nome no sistema, por meio da função Minha Conta, Termos de Pesquisa, Inclusão de Termos.",
+	    "dataInicio": "05/08/2015",
+	    "dataFim": "11/08/2015",
+	    "cor": "#818181"
     },
     "4": {
-	    "texto": "Lorem Ipsum 4",
-	    "dataInicio": "15/10/2015",
-	    "dataFim": "16/10/2015",
-	    "cor": "yellow"
+	    "texto": "Para evitar receber intimações de colegas com nomes exatamente iguais ao seu, que não sejam suas, cadastre termos de exclusão combinando o nome e número de OAB deste colega, acessando Minha Conta, Termos de Pesquisa, Exclusão de Termos).",
+	    "dataInicio": "12/08/2015",
+	    "dataFim": "18/08/2015",
+	    "cor": "#b6b4b5"
     },
     "5": {
-	    "texto": "Lorem Ipsum 5",
-	    "dataInicio": "17/10/2015",
-	    "dataFim": "18/10/2015",
-	    "cor": "pink"
+	    "texto": "Cadastrar abreviações e outras formas como seu nome costuma aparecer nos diários oficiais, garantem o recebimento de todas as suas publicações. Acesse aqui e inclua variações do seu nome.",
+	    "dataInicio": "19/08/2015",
+	    "dataFim": "25/08/2015",
+	    "cor": "#7cb3fa"
     },
     "6": {
-	    "texto": "Lorem Ipsum 6",
-	    "dataInicio": "19/10/2015",
-	    "dataFim": "20/10/2015",
-	    "cor": "orange"
+	    "texto": "O cadastro de um segundo e-mail em nosso sistema pode lhe ser útil. Ele garante o duplo recebimento dos seus alertas de publicação. Cadastre um e-mail secundário aqui.",
+	    "dataInicio": "26/08/2015",
+	    "dataFim": "01/09/2015",
+	    "cor": "#4177ba"
+    },
+    "7": {
+	    "texto": "É possível optar por receber e-mails com: 1) o aviso de que há publicações; 2) cada publicação já aberta; 3) todas as publicações já abertas. Acesse aqui para configurar.",
+	    "dataInicio": "02/09/2015",
+	    "dataFim": "01/09/2015",
+	    "cor": "#818181"
+    },
+    "8": {
+	    "texto": "É possível configurar novos e-mails conforme a sua necessidade. Acesse aqui e personalize o conteúdo e a periodicidade com que deseja receber seus alertas de publicação.",
+	    "dataInicio": "02/09/2015",
+	    "dataFim": "08/09/2015",
+	    "cor": "#b6b4b5"
+    },
+    "9": {
+	    "texto": "É possível optar por receber: 1) somente o aviso de que há (ou não há) publicações; 2) cada publicação já aberta no corpo do e-mail; 3) todas as publicações já abertas no corpo do e-mail. Configure aqui.",
+	    "dataInicio": "09/09/2015",
+	    "dataFim": "15/09/2015",
+	    "cor": "#7cb3fa"
     }
 }
