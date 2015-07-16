@@ -1,35 +1,35 @@
 {
-    "campanhaVoceSabia": {
+    "1": {
 	    "text": "Lorem Ipsum",
 	    "dataInicio": "10/10/2015",
 	    "dataFim": "11/10/2015",
 	    "cor": "#ccc"
     },
-    "campanhaVoceSabia": {
+    "2": {
 	    "text": "Lorem Ipsum",
 	    "dataInicio": "11/10/2015",
 	    "dataFim": "11/10/2015",
 	    "cor": "#ccc"
     },
-    "campanhaVoceSabia": {
+    "3": {
 	    "text": "Lorem Ipsum",
 	    "dataInicio": "12/10/2015",
 	    "dataFim": "11/10/2015",
 	    "cor": "#ccc"
     },
-    "campanhaVoceSabia": {
+    "4": {
 	    "text": "Lorem Ipsum",
 	    "dataInicio": "13/10/2015",
 	    "dataFim": "11/10/2015",
 	    "cor": "#ccc"
     },
-    "campanhaVoceSabia": {
+    "5": {
 	    "text": "Lorem Ipsum",
 	    "dataInicio": "14/10/2015",
 	    "dataFim": "11/10/2015",
 	    "cor": "#ccc"
     },
-    "campanhaVoceSabia": {
+    "6": {
 	    "text": "Lorem Ipsum",
 	    "dataInicio": "15/10/2015",
 	    "dataFim": "11/10/2015",
